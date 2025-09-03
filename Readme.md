@@ -1,0 +1,1 @@
+Deployedurl: https://boxmodel-02.vercel.app/
